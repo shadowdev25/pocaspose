@@ -1,0 +1,16 @@
+2019-02-25 10:55:45 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Erreur de syntaxe dans linstruction SQL {0}; attendu {1}
+Syntax error in SQL statement {0}; expected {1}; SQL statement:
+CREATE TABLE IF NOT EXISTS REGISTRATION (id INTEGER auto increment,  first VARCHAR(255),  last VARCHAR(255),  age INTEGER,  PROMARY KEY ( id )) [42001-197]
+2019-02-25 10:56:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Erreur de syntaxe dans linstruction SQL {0}; attendu {1}
+Syntax error in SQL statement {0}; expected {1}; SQL statement:
+CREATE TABLE IF NOT EXISTS REGISTRATION (id INTEGER auto increment,  first VARCHAR(255),  last VARCHAR(255),  age INTEGER,  PRIMARY KEY ( id )) [42001-197]
+2019-02-25 10:57:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Erreur de syntaxe dans linstruction SQL {0}; attendu {1}
+Syntax error in SQL statement {0}; expected {1}; SQL statement:
+CREATE TABLE IF NOT EXISTS REGISTRATION (id INTEGER auto increment,  first VARCHAR(255),  last VARCHAR(255),  age INTEGER,  PRIMARY KEY ( id )) [42001-197]
+2019-02-25 11:03:36 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Erreur de syntaxe dans linstruction SQL {0}; attendu {1}
+Syntax error in SQL statement {0}; expected {1}; SQL statement:
+CREATE TABLE IF NOT EXISTS REGISTRATION (id INTEGER auto increment,  first VARCHAR(255),  last VARCHAR(255),  age INTEGER,  PRIMARY KEY ( id )) [42001-197]
